@@ -15,13 +15,13 @@
         "description": "Plugin name as displayed in the Homebridge log"
       },
       "username": {
-        "title": "Username",
+        "title": "tobi1905",
         "type": "string",
         "required": true,
         "description": "Username for https://www.homebridge.ca/"
       },
       "password": {
-        "title": "Password",
+        "title": "Spe$erl!20",
         "type": "string",
         "required": true,
         "description": "Password for https://www.homebridge.ca/"
